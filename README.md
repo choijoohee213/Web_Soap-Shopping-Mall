@@ -1,4 +1,6 @@
 # Web_Soap-Shopping-Mall
+PHP, JavaScript, MySQL 를 이용하여 개발한 비누 쇼핑몰 사이트
+
 Soap-selling Homepage Made with PHP &amp; JavaScript &amp; MySQL
 
 
